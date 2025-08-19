@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mVLntjdtRwM=",
+  "dgSpecHash": "3ZdpHfWDW0A=",
   "success": true,
   "projectFilePath": "/Users/beetho/GestionDeTache/GestionDeTache.csproj",
   "expectedPackageFiles": [
     "/Users/beetho/.nuget/packages/microsoft.net.illink.tasks/9.0.8/microsoft.net.illink.tasks.9.0.8.nupkg.sha512",
-    "/Users/beetho/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/9.0.8/microsoft.netcore.app.runtime.osx-x64.9.0.8.nupkg.sha512",
-    "/Users/beetho/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/9.0.8/microsoft.aspnetcore.app.runtime.osx-x64.9.0.8.nupkg.sha512",
-    "/Users/beetho/.nuget/packages/microsoft.netcore.app.host.osx-x64/9.0.8/microsoft.netcore.app.host.osx-x64.9.0.8.nupkg.sha512"
+    "/Users/beetho/.nuget/packages/microsoft.netcore.app.runtime.win-x64/9.0.8/microsoft.netcore.app.runtime.win-x64.9.0.8.nupkg.sha512",
+    "/Users/beetho/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/9.0.8/microsoft.aspnetcore.app.runtime.win-x64.9.0.8.nupkg.sha512",
+    "/Users/beetho/.nuget/packages/microsoft.netcore.app.host.win-x64/9.0.8/microsoft.netcore.app.host.win-x64.9.0.8.nupkg.sha512"
   ],
   "logs": [
     {

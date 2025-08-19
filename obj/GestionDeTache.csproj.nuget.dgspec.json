@@ -64,15 +64,15 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Runtime.osx-x64",
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
               "version": "[9.0.8, 9.0.8]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "name": "Microsoft.NETCore.App.Host.win-x64",
               "version": "[9.0.8, 9.0.8]"
             },
             {
-              "name": "Microsoft.NETCore.App.Runtime.osx-x64",
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
               "version": "[9.0.8, 9.0.8]"
             }
           ],
@@ -85,7 +85,7 @@
         }
       },
       "runtimes": {
-        "osx-x64": {
+        "win-x64": {
           "#import": []
         }
       }

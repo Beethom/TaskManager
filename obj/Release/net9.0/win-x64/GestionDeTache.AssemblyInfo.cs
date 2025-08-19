@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestionDeTache")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2a24200432725126c2fd1cc5dce0e0e87b7631e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestionDeTache")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestionDeTache")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@
 /Users/beetho/GestionDeTache/obj/Debug/net9.0/GestionDeTache.pdb
 /Users/beetho/GestionDeTache/obj/Debug/net9.0/GestionDeTache.genruntimeconfig.cache
 /Users/beetho/GestionDeTache/obj/Debug/net9.0/ref/GestionDeTache.dll
+/Users/beetho/GestionDeTache/obj/Debug/net9.0/GestionDeTache.sourcelink.json

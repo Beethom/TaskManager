@@ -197,3 +197,4 @@
 /Users/beetho/GestionDeTache/obj/Release/net9.0/win-x64/GestionDeTache.pdb
 /Users/beetho/GestionDeTache/obj/Release/net9.0/win-x64/GestionDeTache.genruntimeconfig.cache
 /Users/beetho/GestionDeTache/obj/Release/net9.0/win-x64/ref/GestionDeTache.dll
+/Users/beetho/GestionDeTache/obj/Release/net9.0/win-x64/GestionDeTache.sourcelink.json
