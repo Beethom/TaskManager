@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "mVLntjdtRwM=",
+  "success": true,
+  "projectFilePath": "/Users/beetho/GestionDeTache/GestionDeTache.csproj",
+  "expectedPackageFiles": [
+    "/Users/beetho/.nuget/packages/microsoft.net.illink.tasks/9.0.8/microsoft.net.illink.tasks.9.0.8.nupkg.sha512",
+    "/Users/beetho/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/9.0.8/microsoft.netcore.app.runtime.osx-x64.9.0.8.nupkg.sha512",
+    "/Users/beetho/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/9.0.8/microsoft.aspnetcore.app.runtime.osx-x64.9.0.8.nupkg.sha512",
+    "/Users/beetho/.nuget/packages/microsoft.netcore.app.host.osx-x64/9.0.8/microsoft.netcore.app.host.osx-x64.9.0.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/beetho/.local/share' is denied.",
+      "projectPath": "/Users/beetho/GestionDeTache/GestionDeTache.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/beetho/GestionDeTache/GestionDeTache.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+/Users/beetho/GestionDeTache/bin/Release/net9.0/osx-x64/publish/GestionDeTache.pdb
+/Users/beetho/GestionDeTache/bin/Release/net9.0/osx-x64/publish/GestionDeTache
